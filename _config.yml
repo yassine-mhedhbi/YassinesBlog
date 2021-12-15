@@ -10,7 +10,7 @@ title: Yass Blog
 description: I like to write about stuff I like.
 github_username: yassine-mhedhbi
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "YassBlog"
+github_repo: "YassinesBlog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -34,7 +34,7 @@ url: "https://yassine-mhedhbi.github.io" # the base hostname & protocol for your
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/YassBlog" # the subpath of your site, e.g. "/blog".
+baseurl: "/YassinesBlog" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
